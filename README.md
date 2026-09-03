@@ -107,7 +107,3 @@ aws-production-vpc-architecture/
 
 * **Sumbul Zahra**
 * **LinkedIn:** [View my LinkedIn Post/Profile](https://www.google.com/search?q=https://https://lnkd.in/p/dRpj26-j)
-
-```
-
-```
