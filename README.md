@@ -5,6 +5,7 @@ A secure, scalable, and production-grade Virtual Private Cloud (VPC) architectur
 ---
 
 ## 🏗️ Architecture Overview
+<img src="architecture/vpc-example-private-subnets.png" width="1000">
 
 The architecture is designed with high security and isolation in mind, separating public-facing resources from backend application servers.
 
